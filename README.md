@@ -1,4 +1,4 @@
-~E-stuário~
+E-stuário
 O código do site E-stuário foi feito para simular como este irá funcionar. Foi desenvolvido em Python e 
 oferece três principais funcionalidades: acesso ao feed, visualização de eventos e interação com comunidades.
 
