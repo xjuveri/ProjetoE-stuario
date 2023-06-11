@@ -1,4 +1,4 @@
-E-stuário
+~E-stuário~
 
 O código do site E-stuário foi feito para simular como este irá funcionar. Foi desenvolvido em Python e 
 oferece três principais funcionalidades: acesso ao feed, visualização de eventos e interação com comunidades.
@@ -20,7 +20,7 @@ Ao selecionar a opção "Comunidades", você poderá ver as comunidades existent
 existente ou criar uma nova comunidade. Para participar de uma comunidade, basta inserir o seu nome. Você também pode visualizar 
 os membros de uma determinada comunidade.
 
-Como Executar-
+~Como Executar~
 
 >Certifique-se de ter o Python instalado em seu sistema, versão 3.11. Você também precisará da biblioteca csv.
 >Faça o download do arquivo do código.
