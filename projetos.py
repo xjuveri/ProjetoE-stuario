@@ -1,4 +1,4 @@
-projetos='comunidades.csv'
+comunidades='comunidades.csv'
 log='login.csv'
 cad='cadastro.csv'
 import csv
